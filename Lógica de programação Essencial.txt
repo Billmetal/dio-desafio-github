@@ -1,0 +1,19 @@
+Na introdução da lógica de programação é ensinado mais a fundo o que são algoritmos e para isso foram ensinados os 
+    seguintes tópicos :
+
+    - Fluxograma , variáveis e constantes
+
+    - Tomadas de decisões e expressões
+
+    - Concatenação
+
+    - Estrutura de repetição
+
+    - O que é uma Linguagem de programação
+    
+    - Desvios condicionais e Boas práticas 
+
+    - Laços de repetição em Portugol
+
+    - Aplicação de matrizes e vetores
+
