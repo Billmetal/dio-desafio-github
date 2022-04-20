@@ -1,0 +1,21 @@
+O SCRUM não deixa de ser um time para gerenciar projetos tendo cada um papéis e responsabilidade , dando assim
+    mais agilidade para a entrega de funcionalidades de um software em menos tempo.
+
+o Time é formado pelo Product Owner , o Scrum Master e o time de Desenvolvimento.
+
+
+Tópicos:
+
+    - Cerimônias do Scrum
+
+    - Diferença entre Gestão de projetos Tradicionais X Ágil
+
+    - Papéis e responsabilidades - Product Owner
+
+    - Analisando escopo e definindo prioridades
+
+    - Papel do PO na transformação digital
+
+    - Conceitos e planejamento de tarefas
+
+    - Rotinas de um time ágil
